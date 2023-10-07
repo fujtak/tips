@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.heading {
+  scroll-margin-block-start: 50px;
+}
+
+.content {
+  height: 100vh;
+  background-color: #ccc;
+}
